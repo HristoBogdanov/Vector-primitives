@@ -1,0 +1,11 @@
+C:\Users\Hristo\Desktop\GPI\GPI\project\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\Hristo\Desktop\GPI\GPI\project\bin\Debug\Draw.exe.config
+C:\Users\Hristo\Desktop\GPI\GPI\project\bin\Debug\Draw.exe
+C:\Users\Hristo\Desktop\GPI\GPI\project\bin\Debug\Draw.pdb
+C:\Users\Hristo\Desktop\GPI\GPI\project\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Hristo\Desktop\GPI\GPI\project\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Hristo\Desktop\GPI\GPI\project\obj\Debug\Draw.MainForm.resources
+C:\Users\Hristo\Desktop\GPI\GPI\project\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Hristo\Desktop\GPI\GPI\project\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\Desktop\GPI\GPI\project\obj\Debug\Draw.exe
+C:\Users\Hristo\Desktop\GPI\GPI\project\obj\Debug\Draw.pdb
